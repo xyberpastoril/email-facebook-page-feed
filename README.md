@@ -1,6 +1,6 @@
 # Email Facebook Page Feed
 
-This is an experimental web project that parses a Facebook Page Feed using HtmlDomParser then sends the contents to your email. Implemented in Laravel 9. **This is still a work in progress.**
+This is an experimental web project that parses a Facebook Page Feed using HtmlDomParser then sends the contents to your email. No Facebook Account required. Implemented in Laravel 9. **This is still a work in progress.**
 
 ### Desktop
 ![image](https://user-images.githubusercontent.com/32955000/181905812-0d154ad9-2a14-4b58-b916-873b16f586d1.png)
